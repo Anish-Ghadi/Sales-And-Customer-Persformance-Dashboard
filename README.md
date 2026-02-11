@@ -106,9 +106,4 @@ From this project, we can derive insights such as:
 
 ---
 
-## Dashboard Screenshots
-
-![Sales Dashboard]("C:\Users\anish\Downloads\img\sales dashboard.png")
-
-![Customer Dashboard]("C:\Users\anish\Downloads\img\Customers Dashboard.png")
 
