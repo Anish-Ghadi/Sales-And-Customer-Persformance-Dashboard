@@ -106,9 +106,9 @@ From this project, we can derive insights such as:
 
 ---
 
-## 🖼 Screenshots
+## Dashboard Screenshots
 
-*(You can upload your dashboard images in GitHub and link them here)*
+![Sales Dashboard]("C:\Users\anish\Downloads\img\sales dashboard.png")
 
-Example:
+![Customer Dashboard]("C:\Users\anish\Downloads\img\Customers Dashboard.png")
 
