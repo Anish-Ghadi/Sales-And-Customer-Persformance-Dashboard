@@ -1,5 +1,5 @@
 # 📊 Sales and Customer Performance Dashboard
-![Sales Dashboard](Sales-Dashboard.png)
+![Sales Dashboard](SalesDashboard.png)
 
 ## 📌 Project Overview
 The **Sales and Customer Performance Dashboard** is a data visualization project designed to analyze business performance based on sales, profit, and customer behavior.  
